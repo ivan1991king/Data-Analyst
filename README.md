@@ -1,5 +1,5 @@
 # Data-Analyst
-Yandex Praktikum course
+Yandex Praсtiсum course
 
 ## Описание проектов:
 | Номер проекта | Название и ссылка | О чем проект                                                     |
